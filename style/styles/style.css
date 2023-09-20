@@ -87,7 +87,7 @@ ul li {
 
 .main {
     background-color: black;
-    background-image: url(style/photos/hard-drive-small.jpg);
+    background-image: url(/style/photos/hard-drive-small.jpg);
     background-repeat: no-repeat;
 }
 
@@ -159,7 +159,7 @@ h3 {
   font-size: 1.2em;
   
   background-color: rgb(245, 245, 245);
-  background-image: url(style/photos/output-onlinepngtools.png);
+  background-image: url(/style/photos/output-onlinepngtools.png);
   background-repeat: no-repeat;
   
   background-position: top;
